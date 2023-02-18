@@ -8,6 +8,6 @@ Currently I'm a student at University of Latvia studying to get a Bachelor's deg
 <a href="mailto:l.zilitis@gmail.com">
   <img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/linards-z%C4%ABl%C4%ABtis-952202252/">
+<a href="https://www.linkedin.com/in/linards-zilitis/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
